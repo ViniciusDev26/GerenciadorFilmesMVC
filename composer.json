@@ -7,5 +7,6 @@
         "psr-4":{
             "Gerenciador\\Doctrine\\": "src/"
         }
+        //composer dump-autoload
     }
 }
